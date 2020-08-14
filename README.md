@@ -1,7 +1,7 @@
 # on6-xp-s1-exercicios
 
 <p align="center">
-    <img src="" width="50%">
+    <img src="https://github.com/lenizelira/exercicio-aula1/blob/master/img/Framework-x-Biblioteca-x-API.-Entenda-as-diferen%C3%A7as-1.png" width="50%">
 </p>
 
 # Framework e Bibliotecas
